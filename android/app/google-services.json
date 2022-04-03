@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915612702279",
+    "project_id": "hoguhlinker-app",
+    "storage_bucket": "hoguhlinker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915612702279:android:602a64d813f818b8f90362",
+        "android_client_info": {
+          "package_name": "com.example.hoguhlinker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915612702279-ingud0ldjjee2m6tv38fu8sr6mnbbm5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsEFy1dWJiW22JxqFh1QzXQUr2OprcyHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915612702279-ingud0ldjjee2m6tv38fu8sr6mnbbm5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
